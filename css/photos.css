@@ -1,0 +1,49 @@
+.photos{
+    padding-left: 90px;
+    padding-right: 50px;
+    padding-top: auto;
+    padding-bottom: auto;
+}
+
+img.align-bit{
+    margin-left: 120px;
+    margin-bottom: 12px;
+}
+
+img.lit{
+    float: right;
+    margin-left: 40px; 
+    margin-bottom: 100px;
+}
+
+img.align-left{
+    float: left;
+    margin-right: 50px;
+    margin-left: 80px
+}
+
+img.align-right{
+    float:right;
+}
+
+img.align-some{
+    margin-left: 32px;
+    margin-bottom: 100px;
+    margin-right: 40px;
+}
+
+img.what{
+    margin-left: 240px;
+}
+.pad {
+    margin-bottom: 100px;
+}
+
+.poster{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+body{
+    margin-top: 75px;
+}
